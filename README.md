@@ -29,16 +29,6 @@ Pandas: Para manipulação e tratamento de dados.
 
 Jupyter Notebook / Google Colab
 
-🔧 Como Executar
-Certifique-se de ter o Python e o pacote pandas instalados.
-
-Clone este repositório:
-
-Bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Abra o arquivo AluraStoreBrasil.ipynb em seu ambiente Jupyter ou importe-o para o Google Colab.
-
-Execute as células para processar os dados vindos das URLs do repositório de desafios da Alura.
 
 📈 Etapas da Análise
 Importação: Leitura de múltiplos arquivos CSV (loja_1 a loja_4).
